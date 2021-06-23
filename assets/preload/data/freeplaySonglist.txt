@@ -1,0 +1,4 @@
+Tutorial:gf:1
+First Take:violet:2
+Corruption:violet-controlled:2
+Redemption:violet-happy:2
