@@ -25,8 +25,8 @@ class StoryMenuState extends MusicBeatState
 
 	var weekData:Array<Dynamic> = [
 		['Tutorial'],
-		['First Take', 'Corruption', 'Redemption']
-
+		['First Take', 'Corruption', 'Redemption'],
+		['Detrimental']
 	];
 
 	var curDifficulty:Int = 1;
@@ -35,13 +35,15 @@ class StoryMenuState extends MusicBeatState
 
 	var weekCharacters:Array<Dynamic> = [
 		['', 'bf', 'gf'],
+		['violet', 'bf', 'gf'],	
 		['violet', 'bf', 'gf']	
 		
 	];
 
 	var weekNames:Array<String> = [
 		"",
-		"ROSES ARE RED, VIOLETS ARE VIOLET"
+		"ROSES ARE RED, VIOLETS ARE VIOLET",
+		"Preview"
 	];
 
 	var txtWeekTitle:FlxText;

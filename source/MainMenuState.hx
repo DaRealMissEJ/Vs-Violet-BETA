@@ -165,7 +165,7 @@ class MainMenuState extends MusicBeatState
 			{
 				if (optionShit[curSelected] == 'donate')
 				{
-					fancyOpenURL("https://www.kickstarter.com/projects/funkin/friday-night-funkin-the-full-ass-game");
+					fancyOpenURL("https://www.youtube.com/channel/UCWxNOohS72ICFXJni8Imk_A");
 				}
 				else
 				{
